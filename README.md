@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full Stack Developer | Next.js & Node.js<br><br>Build fast, scalable, and impactful web apps.<br>Specialize in Next.js, Node.js, and MongoDB.<br>Experience with real-time apps and AI-powered platforms.<br>Always learning and improving my craft.<br>Open to exciting opportunities.<br>📩 Let’s connect: hbirhanu.dev@gmail.com
+🚀 Full Stack Developer | Next.js & Node.js<br><br>-Build fast, scalable, and impactful web apps.<br>-Specialize in Next.js, Node.js, and MongoDB.<br>-Experience with real-time apps and AI-powered platforms.<br>-Always learning and improving my craft.<br>Open to exciting opportunities.<br>📩 Let’s connect: hbirhanu.dev@gmail.com
 
 
 # 💻 Tech Stack:
