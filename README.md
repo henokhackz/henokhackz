@@ -40,16 +40,6 @@ Hi, I'm Henok Birhanu — a passionate developer who loves turning ideas into fa
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=henokhackz&theme=radical&no-frame=false&no-bg=true&margin-w=8)
 
----
-
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henokhackz&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henokhackz&layout=compact&theme=radical" height="180" />
-</div>
-
----
-
 ## 🔗 Visitor Count
 [![](https://visitcount.itsvg.in/api?id=henokhackz&icon=0&color=0)](https://visitcount.itsvg.in)
 
