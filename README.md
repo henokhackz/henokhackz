@@ -1,8 +1,8 @@
 # 💫 About Me
 
-🚀 **Full Stack Developer** | **Next.js & Node.js Specialist**
+🚀 **Full Stack Developer** | **Next.js & Node.js Developer**
 
-Hi, I'm Henok Birhanu — a passionate developer who loves turning ideas into fast, scalable, and user-centric web apps. I specialize in:
+Hi, I'm Lantumo Birhanu  :- a passionate developer who loves turning ideas into fast, scalable, and user-centric web apps. I specialize in:
 
 - ⚡ Building real-time & AI-powered platforms  
 - 🧠 Crafting clean, maintainable, and modern web applications  
@@ -43,4 +43,4 @@ Hi, I'm Henok Birhanu — a passionate developer who loves turning ideas into fa
 ## 🔗 Visitor Count
 [![](https://visitcount.itsvg.in/api?id=henokhackz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Built with ❤️ by Henok Birhanu -->
+<!-- Built with ❤️ by Lantumo Birhanu -->
