@@ -35,12 +35,4 @@ Hi, I'm Lantumo Birhanu  :- a passionate developer who loves turning ideas into 
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=henokhackz&theme=radical&no-frame=false&no-bg=true&margin-w=8)
-
-## 🔗 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=henokhackz&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Built with ❤️ by Lantumo Birhanu -->
