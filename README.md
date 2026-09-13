@@ -1,22 +1,27 @@
-# 💫 About Me
+# About Me
 
-🚀 **Full Stack Developer** | **Next.js & Node.js Developer**
+**Frontend Developer** | **Full stask developer**
 
-Hi, I'm Lantumo Birhanu  :- a passionate developer who loves turning ideas into fast, scalable, and user-centric web apps. I specialize in:
+Hi, I'm Lantumo Birhanu — a frontend developer who enjoys turning ideas and designs into fast, polished, and interactive web applications.
 
-- ⚡ Building real-time & AI-powered platforms  
-- 🧠 Crafting clean, maintainable, and modern web applications  
-- 🌍 Working across the stack: **Next.js**, **Node.js**, **MongoDB**, **PostgreSQL**  
-- 🧩 Creating highly interactive UIs & efficient APIs
+I specialize in:
 
-🎯 Currently open to exciting freelance or remote opportunities.  
-📬 **Let's connect:** `hbirhanu.dev@gmail.com`
+* Building modern web and mobile  applications with **React, Next.js, React Native, and TypeScript**
+* Creating clean, responsive, and user-focused interfaces
+* Turning designs into polished, pixel-perfect web experiences
+* Building interactive applications with **Three.js & WebGL**
+* Working with **Node.js, PostgreSQL, MongoDB, and REST APIs**
+* Improving performance, usability, and maintainability in production applications
+
+I'm currently open to **remote and freelance frontend opportunities** where I can build meaningful products and solve challenging problems.
+
+ **Let's connect:** `hbirhanu.dev@gmail.com`
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
-### 🚀 Languages & Frameworks
+###  Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -24,7 +29,7 @@ Hi, I'm Lantumo Birhanu  :- a passionate developer who loves turning ideas into 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### 🧠 Databases & DevOps
+###  Databases & DevOps
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
